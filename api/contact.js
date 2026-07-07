@@ -4,7 +4,7 @@
 // SETUP (Vercel project -> Settings -> Environment Variables):
 //   RESEND_API_KEY = your Resend API key (required)
 //   REPORT_FROM    = "AERPOLICE <report@aerpolice.com>"  (verified Resend sender; required)
-//   TEAM_EMAIL     = hello@aerpolice.com   (where contact submissions go; required)
+//   TEAM_EMAIL     = aerpolicereport@aeredium.io   (where contact submissions go; required)
 //   CONTACT_TO     = optional override for where contact submissions go (defaults to TEAM_EMAIL)
 
 function esc(s) {

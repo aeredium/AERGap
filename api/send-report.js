@@ -4,7 +4,7 @@
 // SETUP (Vercel project -> Settings -> Environment Variables):
 //   RESEND_API_KEY = your Resend API key (required)
 //   REPORT_FROM    = "AERPOLICE <report@aerpolice.com>"  (a verified Resend sender; required)
-//   TEAM_EMAIL     = hello@aerpolice.com   (where lead notifications go; optional but recommended)
+//   TEAM_EMAIL     = aerpolicereport@aeredium.io   (where lead notifications go; optional but recommended)
 //
 // Verify your sending domain (e.g. aerpolice.com) in Resend before emailing arbitrary recipients.
 
